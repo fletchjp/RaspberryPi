@@ -14,3 +14,5 @@ It then pops up in the shared drive on the Mini PC.
 
 I have not yet found out how to do the opposite transfer,
 
+I do have access to the whole of the drive on the Raspberry Pi to copy from but not too.
+
